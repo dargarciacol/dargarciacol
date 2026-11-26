@@ -1,6 +1,6 @@
-<!-- HEADER BANNER TÁCTICO -->
+<!-- HEADER BANNER TÁCTICO LOCAL -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070a,50:0d1b2a,100:003b2b&height=210&section=header&text=SANTIAGO%20GARC%C3%8DA&fontSize=46&fontColor=00ff41&fontAlignY=38&desc=SOC%20Analyst%20L2%20(In%20Training)%20%7C%20Backend%20Developer%20Java%20%26%20Spring%20Boot&descSize=16&descColor=94a3b8&descAlignY=60&animation=fadeIn" width="100%" alt="Banner Santiago García" />
+  <img src="./banner.svg" width="100%" alt="Banner Santiago García" />
 </div>
 
 <!-- TERMINAL TYPING EFFECT -->
@@ -17,9 +17,11 @@
 ┌──(santiago㉿sec-ops)-[~/bogota-colombia]
 └─$ cat profile.json
 {
-  "role": "SOC Analyst L2 (Trainee) & Junior Backend Developer",
+   "role": "SOC Analyst L2 (Trainee) & Junior Backend Developer",
   "focus": ["SIEM & Incident Response", "Threat Intelligence", "Secure REST APIs"],
   "education": "Tecnología en Gestión de Redes de Datos (SENA) | Full Stack Java",
   "os_environment": "Debian Linux / Kali Linux",
+  
+  
   "portfolio": "[https://delightful-llama-ffbd51.netlify.app/](https://delightful-llama-ffbd51.netlify.app/)"
-}
+} 
